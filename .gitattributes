@@ -1,0 +1,27 @@
+*.html eol=lf
+*.js eol=lf
+*.ts eol=lf
+*.css eol=lf
+*.scss eol=lf
+*.java eol=lf
+*.scala eol=lf
+*.groovy eol=lf
+*.sh eol=lf
+*.sls eol=lf
+*.json eol=lf
+*.pem eol=lf
+*.conf eol=lf
+*.yml eol=lf
+*.yaml eol=lf
+*.sql eol=lf
+*.key eol=lf
+*.cer eol=lf
+*.pub eol=lf
+*.default eol=lf
+.gitattributes eol=lf
+build.gradle eol=lf
+build.sbt eol=f
+Dockerfile eol=lf
+tini-static binary
+*.docx binary
+/vagrant/.vagrant
